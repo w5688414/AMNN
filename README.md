@@ -8,4 +8,4 @@ This dataset is a collection of crawled microblogs from Instagram by using Insta
 
 ## Open access:
 - IEEE Dateport: https://ieee-dataport.org/documents/multimodal-dataset-instragram
-- Google Driver: https://drive.google.com/open?id=1QjHBJiiqWrA3jQLmvLYmnMC50hb4hJJg
+- Google Driver: https://drive.google.com/drive/folders/1WjKwfMpSv-wBQW5CMXSAgkkwGhOnJawg?usp=sharing
